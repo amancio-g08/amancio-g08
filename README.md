@@ -14,7 +14,7 @@ Hello! 👋 I'm Gabriel, a Technology student from Brazil.
 
   - 💬 I'm 18 years old and live in São Paulo. I'm proficient in English and Spanish. I have experience with Python, SQL, Big Data, Java, HTML, CSS, Scrum fundamentals, Chatbots, and React (all subjects from college).
 
-  - ⚡ I love movies. I believe they're like a cup of coffee – you never turn one down. I'm also passionate about music and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. :)
+  - ⚡ "I love studying and learning new things. I believe knowledge is like a key that opens infinite doors. I'm also passionate about music and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. :)
 </details>
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-amâncio-b198a5266/" target="_blank">
