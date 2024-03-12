@@ -41,8 +41,8 @@ Hello! 👋 I'm Gabriel, a Technology student from Brazil.
 
 
 ## Repositórios:
-- [BIKE NOW - PROJECT. ](https://github.com/amancio-g08/Bike-Now-Project)
-- [MARVEL - PROJECT. ](https://github.com/amancio-g08/marvel-project-01)
+- [Bike Now - Project ](https://github.com/amancio-g08/Bike-Now-Project)
+- [Marvel - Project ](https://github.com/amancio-g08/marvel-project-01)
 
 
 <p align="left">
