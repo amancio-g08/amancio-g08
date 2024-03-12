@@ -40,9 +40,9 @@ Hello! 👋 I'm Gabriel, a Technology student from Brazil.
 
 
 
-## Portfolio:
-- [IA and Machine Learning - DISRUPTIVE ARCHITECTURES IOT IOB GENERATIVE IA](https://github.com/amancio-g08/DISRUPTIVE-ARCHITECTURES-IOT-IOB-GENERATIVE-IA)
-- [PSQL - Mastering Relational And Non Relational Database](https://github.com/amancio-g08/MASTERING-RELATIONAL-AND-NON-RELATIONAL-DATABASE)
+## Repositórios:
+- [BIKE NOW - PROJECT. ](https://github.com/amancio-g08/Bike-Now-Project)
+- [MARVEL - PROJECT. ](https://github.com/amancio-g08/marvel-project-01)
 
 
 <p align="left">
