@@ -6,13 +6,13 @@
 
 Hello! 👋 I'm Gabriel, a Technology student from Brazil.
 
-* 📖 Currently, I'm studying systems analysis and development at FIAP
-* 🔭 I'm actively seeking my first internship opportunity. My dream is to one day work with IT Management and become a Scrum Master.
+* 📖 Currently, I'm studying Quality Assurance
+* 🔭 I'm actively seeking my first internship opportunity.
 
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 18 years old and live in São Paulo. I'm proficient in English and Spanish. I have experience with Python, SQL, Big Data, Java, HTML, CSS, Scrum fundamentals, Chatbots, and React (all subjects from college).
+  - 💬 I'm 19 years old and live in São Paulo. I'm proficient in English and Spanish. I have experience with Cypress, Postman, Web Automation, Scrum.
 
   - ⚡ I love studying and learning new things. I believe knowledge is like a key that opens infinite doors. I'm also passionate about music and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. :)
 </details>
@@ -40,7 +40,7 @@ Hello! 👋 I'm Gabriel, a Technology student from Brazil.
 
 
 
-## Repositórios:
+## Projetos:
 - [Bike Now - Project ](https://github.com/amancio-g08/Bike-Now-Project)
 - [Marvel - Project ](https://github.com/amancio-g08/marvel-project-01)
 
