@@ -17,7 +17,7 @@ Hello! 👋 I'm Gabriel, a Technology student from Brazil.
   - ⚡ I love studying and learning new things. I believe knowledge is like a key that opens infinite doors. I'm also passionate about music and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. :)
 </details>
 <div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-amâncio-b198a5266/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-am%C3%A2ncio-pereira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     
   </a>
