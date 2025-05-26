@@ -6,8 +6,7 @@
 
 Hello! 👋 I'm Gabriel, a Technology student from Brazil.
 
-* 📖 Currently, I'm studying Quality Assurance
-* 🔭 I'm actively seeking my first internship opportunity.
+* 📖 Currently, I'm Working in Support Analyst/QA Jr at @PDVtec.
 
 <details>
   <summary>👨‍💻 More about me</summary>
