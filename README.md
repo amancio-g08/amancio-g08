@@ -39,7 +39,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/amancio-g08/amancio-g08/output/snake.svg" alt="Snake animation" />
-
-###
