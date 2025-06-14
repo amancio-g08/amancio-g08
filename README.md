@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Amâncio</h1>
 
 ###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from Brazil<br><br>- 🔭 I’m working as QA / Suport Analyst Jr.</p>
+<br>- 🔭 I’m working as QA / Suport Analyst Jr.</p>
 
 ###
 
