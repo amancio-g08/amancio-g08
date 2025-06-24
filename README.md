@@ -24,62 +24,62 @@ but I hate coffee so much, even my Postman requests refuse to use Java ☕❌�
 
 <div align="left">
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/cypress/ffffff" height="40" alt="cypress logo" style="display: inline-block;" />
+    <img src="https://cdn.simpleicons.org/cypress/ffffff" height="40" alt="cypress logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://spring.io" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://git-scm.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://trello.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://www.lua.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://www.putty.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://www.figma.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
   <a href="https://www.linux.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
 </div>
