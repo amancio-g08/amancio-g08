@@ -79,3 +79,7 @@ but I hate coffee so much, even my Postman requests refuse to use Java ☕❌�
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
 </div>
+
+![snake gif](https://github.com/amancio-g08/amancio-g08/blob/output/github-snake-dark.svg)
+
+
