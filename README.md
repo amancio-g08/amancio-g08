@@ -10,8 +10,7 @@
   Finding bugs since 2024 — and loving every assertion failure along the way.<br><br>
   I'm currently learning <strong>Cypress</strong> for test automation, <strong>Postman</strong> for API testing, and all the tricks to break things the smart way.<br><br>
   I automate with precision, ensure top-notch quality, and grow as a QA specialist every sprint.<br><br>
-  I work in tech, automate tests, live in dark mode...<br>
-  but I hate coffee so much, even my Postman requests refuse to use Java ☕❌💻
+  I work in tech, automate tests, live in dark mode but I hate coffee so much, even my Postman requests refuse to use Java ☕❌💻  <br>
 </p>
 
 <h2 align="left">I code with</h2>
