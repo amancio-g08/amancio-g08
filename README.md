@@ -71,10 +71,6 @@ but I hate coffee so much, even my Postman requests refuse to use Java ☕❌�
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
   <img width="12" />
-  <a href="https://www.putty.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
-  </a>
-  <img width="12" />
   <a href="https://www.figma.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" style="display: inline-block; border: none; box-shadow: none; outline: none;" />
   </a>
