@@ -11,7 +11,7 @@
 
 
 
-  Finding bugs since 2024 — and loving every assertion failure along the way.
+  Finding bugs since 2024 and loving every assertion failure along the way.
   I'm currently learning <strong>Cypress</strong> for test automation, <strong>Postman</strong> for API testing, and all the tricks to break things the smart way.  I automate with precision, ensure top-notch quality, and grow as a QA specialist every sprint.<b>
   
 </p>
