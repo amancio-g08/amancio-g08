@@ -7,8 +7,7 @@
 <h2 align="left">About me</h2>
 <p align="left">
 
-  I work in tech, write test scripts, live in dark mode, and hate coffee’s caffeine — but love Red Bull’s caffeine. Even my Postman requests refuse to run without it. ⚡
-
+  I work in tech, write test scripts, live in dark mode, and hate coffee’s caffeine.
 
 
   Finding bugs since 2024 and loving every assertion failure along the way.
