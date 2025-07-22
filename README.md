@@ -7,9 +7,6 @@
 <h2 align="left">About me</h2>
 <p align="left">
 
-  I work in tech, write test scripts, live in dark mode, and hate coffee’s caffeine.
-
-
   Finding bugs since 2024 and loving every assertion failure along the way.
   I'm currently learning <strong>Cypress</strong> for test automation, <strong>Postman</strong> for API testing, and all the tricks to break things the smart way.  I automate with precision, ensure top-notch quality, and grow as a QA specialist every sprint.<b>
   
