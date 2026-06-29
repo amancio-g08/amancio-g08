@@ -1,7 +1,7 @@
 <h1 align="left">cy.get('@gabriel').should('beSecured') 🛡️</h1>
 
 <p align="left">
-  My name is Gabriel, and I'm an Application Security Analyst Jr from Brazil.
+  My name is Gabriel, and I'm an Application Security Analyst  from Brazil.
 </p>
 
 <h2 align="left">About me</h2>
