@@ -1,57 +1,69 @@
 <h1 align="left">cy.get('@gabriel').should('beSecured') 🛡️</h1>
 
 <p align="left">
-  My name is Gabriel, and I'm an Application Security Analyst  from Brazil.
+  My name is Gabriel, and I'm an <strong>Application Security Analyst</strong> from Brazil, currently working with <strong>Akamai technologies</strong> as part of a <strong>Client Management team</strong>.
 </p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-  I'm currently working with <strong>Application Security</strong>, focused on <strong>Akamai App & API Protector</strong>, 
-  <strong>WAF</strong>, <strong>Bot Management</strong>, <strong>API Security</strong>, <strong>CDN</strong>, 
-  <strong>DNS</strong>, <strong>TLS certificates</strong> and traffic analysis.
+  I work with the management and analysis of Akamai environments, supporting customers with security, performance and edge infrastructure configurations.
 </p>
 
 <p align="left">
-  My background started in <strong>QA and test automation</strong>, where I worked with Cypress, Postman, 
-  API testing, regression testing and technical documentation. Today, I use this foundation to investigate 
-  web traffic, troubleshoot application behavior, analyze security events and automate security workflows.
+  My daily activities include <strong>WAF traffic analysis</strong>, <strong>Bot Management exceptions</strong>, 
+  <strong>environment assessments</strong>, <strong>Akamai Property analysis</strong>, <strong>DNS configurations</strong>, 
+  <strong>TLS certificate management</strong> and troubleshooting application traffic through the Akamai Edge.
 </p>
 
 <p align="left">
-  Currently studying and building my path in <strong>AppSec</strong>, <strong>API Security</strong>, 
-  <strong>cloud security</strong>, <strong>offensive security</strong> and automation for security operations.
+  I also perform technical assessments to identify configuration improvements, security gaps and opportunities to make better use of the Akamai platform.
 </p>
 
 <h2 align="left">Current Focus</h2>
 
 <ul align="left">
   <li>Akamai App & API Protector</li>
-  <li>Web Application Firewall</li>
-  <li>Bot Management</li>
-  <li>API Security</li>
-  <li>Edge DNS and CDN behavior</li>
-  <li>TLS certificates and CPS validation</li>
+  <li>Web Application Firewall (WAF)</li>
+  <li>WAF traffic and security event analysis</li>
+  <li>Bot Management and bot exceptions</li>
+  <li>Environment assessments</li>
+  <li>Akamai Property Manager analysis</li>
+  <li>Edge DNS</li>
+  <li>CDN and Edge behavior</li>
+  <li>TLS certificates and CPS</li>
   <li>SureRoute validation</li>
-  <li>Python automation for security operations</li>
-  <li>OWASP Web and API Security</li>
+  <li>API Security</li>
+  <li>Traffic troubleshooting and analysis</li>
+  <li>Security automation with Python</li>
 </ul>
 
-<h2 align="left">Hard Skills</h2>
-
-<h3 align="left">AppSec & Security</h3>
+<h2 align="left">Akamai & Application Security</h2>
 
 <p align="left">
-  Akamai · WAF · Bot Management · API Security · OWASP Web/API · DNS · CDN · TLS · Security Analytics · Traffic Analysis
+  Akamai App & API Protector · WAF · Bot Management · Property Manager · Edge DNS · CDN · CPS · TLS · SureRoute · API Security · Security Analytics · Traffic Analysis · Environment Assessment
 </p>
 
-<h3 align="left">Automation & QA Background</h3>
+<h2 align="left">What I Work With</h2>
 
 <p align="left">
-  Cypress · Postman · API Testing · Regression Testing · GitHub Actions · Test Documentation
+  My work involves analyzing and managing customer environments running behind Akamai, including:
 </p>
 
-<h3 align="left">Programming & Tools</h3>
+<ul align="left">
+  <li>Analysis of WAF events, rules and security policies</li>
+  <li>Creation and validation of Bot Management exceptions</li>
+  <li>Assessment of Akamai environments and configurations</li>
+  <li>Analysis and validation of Properties and hostnames</li>
+  <li>DNS configuration and Edge routing validation</li>
+  <li>TLS certificate lifecycle and CPS validation</li>
+  <li>SureRoute configuration and validation</li>
+  <li>Troubleshooting HTTP traffic between users, Akamai Edge and origins</li>
+  <li>Identification of configuration improvements and security gaps</li>
+  <li>Technical support for customer environment management</li>
+</ul>
+
+<h2 align="left">Programming & Tools</h2>
 
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -64,60 +76,26 @@
   </a>
   <img width="12" />
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/cypress/ffffff" height="40" alt="cypress logo" />
-  </a>
-  <img width="12" />
-
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   </a>
   <img width="12" />
 
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   </a>
-  <img width="12" />
-
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-  </a>
 </div>
-
-<h2 align="left">Featured Projects</h2>
-
-<ul align="left">
-  <li><strong>akamai-faq</strong> — Technical FAQ about Akamai, WAF, Bot Management, DNS, CDN and API Security.</li>
-  <li><strong>sureroute-url-validator</strong> — Python script to validate URLs and generate status reports for SureRoute analysis.</li>
-  <li><strong>akamai-hostname-checker</strong> — DNS and HTTP validation tool for checking Akamai Edge routing.</li>
-  <li><strong>api-security-labs</strong> — Study notes and labs focused on OWASP API Security, JWT, OAuth2 and Postman.</li>
-  <li><strong>cypress-study</strong> — QA automation studies using Cypress.</li>
-</ul>
 
 <h2 align="left">Career Direction</h2>
 
 <p align="left">
-  Building my career in Application Security, with a strong interest in API Security, WAF tuning, 
-  cloud security, offensive security and automation for security operations.
+  Building my career in <strong>Application Security</strong>, with a focus on <strong>API Security</strong>, 
+  <strong>WAF</strong>, <strong>Edge Security</strong>, <strong>cloud security</strong>, 
+  <strong>offensive security</strong> and <strong>security automation</strong>.
 </p>
 
 <br>
 
 <div align="left">
-  <img src="https://github.com/amancio-g08/amancio-g08/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/amancio-g08/amancio-g08/blob/output/github-snake-dark.svg" alt="GitHub contribution snake" />
 </div>
