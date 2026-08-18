@@ -1,101 +1,117 @@
-<h1 align="left">cy.get('@gabriel').should('beSecured') 🛡️</h1>
+<h1 align="left">Gabriel Amancio</h1>
 
 <p align="left">
-  My name is Gabriel, and I'm an <strong>Application Security Analyst</strong> from Brazil, currently working with <strong>Akamai technologies</strong> as part of a <strong>Client Management team</strong>.
-</p>
-
-<h2 align="left">About me</h2>
-
-<p align="left">
-  I work with the management and analysis of Akamai environments, supporting customers with security, performance and edge infrastructure configurations.
+  <strong>Application Security Analyst</strong> · Akamai Edge Security · Brazil 🇧🇷
 </p>
 
 <p align="left">
-  My daily activities include <strong>WAF traffic analysis</strong>, <strong>Bot Management exceptions</strong>, 
-  <strong>environment assessments</strong>, <strong>Akamai Property analysis</strong>, <strong>DNS configurations</strong>, 
-  <strong>TLS certificate management</strong> and troubleshooting application traffic through the Akamai Edge.
+  <img src="https://img.shields.io/badge/Focus-Application%20Security-B02A2A?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Platform-Akamai-0099CC?style=flat-square&logo=akamai&logoColor=white" alt="Akamai" />
+  <img src="https://img.shields.io/badge/Interest-Offensive%20Security-000000?style=flat-square" alt="Offensive Security" />
+  <img src="https://img.shields.io/badge/Interest-Hardware%20Hacking-FF8200?style=flat-square" alt="Hardware Hacking" />
 </p>
 
-<p align="left">
-  I also perform technical assessments to identify configuration improvements, security gaps and opportunities to make better use of the Akamai platform.
-</p>
+---
 
-<h2 align="left">Current Focus</h2>
+## About
 
-<ul align="left">
-  <li>Akamai App & API Protector</li>
-  <li>Web Application Firewall (WAF)</li>
-  <li>WAF traffic and security event analysis</li>
-  <li>Bot Management and bot exceptions</li>
-  <li>Environment assessments</li>
-  <li>Akamai Property Manager analysis</li>
-  <li>Edge DNS</li>
-  <li>CDN and Edge behavior</li>
-  <li>TLS certificates and CPS</li>
-  <li>SureRoute validation</li>
-  <li>API Security</li>
-  <li>Traffic troubleshooting and analysis</li>
-  <li>Security automation with Python</li>
-</ul>
+I work on a **Client Management team** operating Akamai environments for a large multi-client portfolio across healthcare, finance, insurance, education and logistics — sectors where downtime and exposure carry real regulatory weight.
 
-<h2 align="left">Akamai & Application Security</h2>
+Day to day, that means tuning **WAF and Bot Management** policies, validating legitimate traffic before moving rules from alert to block, hardening origins so they answer **exclusively** through the Akamai edge, and running assessments that turn raw traffic and configuration data into prioritized action plans for customers.
 
-<p align="left">
-  Akamai App & API Protector · WAF · Bot Management · Property Manager · Edge DNS · CDN · CPS · TLS · SureRoute · API Security · Security Analytics · Traffic Analysis · Environment Assessment
-</p>
+Outside of work, I spend my time on **offensive security** and **hardware hacking** — the other side of the same problem.
 
-<h2 align="left">What I Work With</h2>
+---
 
-<p align="left">
-  My work involves analyzing and managing customer environments running behind Akamai, including:
-</p>
+## What I Work With
 
-<ul align="left">
-  <li>Analysis of WAF events, rules and security policies</li>
-  <li>Creation and validation of Bot Management exceptions</li>
-  <li>Assessment of Akamai environments and configurations</li>
-  <li>Analysis and validation of Properties and hostnames</li>
-  <li>DNS configuration and Edge routing validation</li>
-  <li>TLS certificate lifecycle and CPS validation</li>
-  <li>SureRoute configuration and validation</li>
-  <li>Troubleshooting HTTP traffic between users, Akamai Edge and origins</li>
-  <li>Identification of configuration improvements and security gaps</li>
-  <li>Technical support for customer environment management</li>
-</ul>
+**Security**
+- WAF policy tuning, security event analysis and false-positive treatment
+- Bot Management: bot category evolution and validated exceptions for legitimate automation
+- API security and traffic behavior analysis across applications and integrations
+- Environment assessments to surface configuration gaps and exposure
 
-<h2 align="left">Programming & Tools</h2>
+**Edge & Infrastructure**
+- Property Manager analysis, hostname validation and DNS/CDN consistency checks
+- Site Shield deployment, firewall range management and origin bypass prevention
+- SureRoute configuration, test object validation and edge-to-origin route troubleshooting
+- TLS certificate lifecycle and CPS: expiration, chain, wildcard coverage, Domain Validation
+
+**Delivery**
+- Technical assessments, evidence packages and executive-facing reporting
+- IAM reviews across customer accounts (users, roles, permissions)
+- Security automation with Python
+
+---
+
+## Tech & Tools
+
+**Edge, CDN & Application Security**
+
+![Akamai](https://img.shields.io/badge/Akamai-0099CC?style=for-the-badge&logo=akamai&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-B02A2A?style=for-the-badge)
+![Bot Management](https://img.shields.io/badge/Bot%20Management-1F6F8B?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-721412?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-4A4A55?style=for-the-badge)
+
+**Offensive Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+**Hardware Hacking**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF8200?style=for-the-badge)
+![UART / JTAG / SPI](https://img.shields.io/badge/UART%20%2F%20JTAG%20%2F%20SPI-6E7B8B?style=for-the-badge)
+
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## Where I'm Heading
+
+Building depth in **Application Security** — API security, WAF and edge defense, cloud security, offensive security and security automation. The goal is to keep bridging both sides: understanding how attacks are built in order to design defenses that hold up in production.
+
+---
+
+## GitHub
 
 <div align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=amancio-g08&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amancio-g08&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top languages" />
 </div>
-
-<h2 align="left">Career Direction</h2>
-
-<p align="left">
-  Building my career in <strong>Application Security</strong>, with a focus on <strong>API Security</strong>, 
-  <strong>WAF</strong>, <strong>Edge Security</strong>, <strong>cloud security</strong>, 
-  <strong>offensive security</strong> and <strong>security automation</strong>.
-</p>
 
 <br>
 
 <div align="left">
   <img src="https://github.com/amancio-g08/amancio-g08/blob/output/github-snake-dark.svg" alt="GitHub contribution snake" />
 </div>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-PERFIL/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabrielamanciopereiraurm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
