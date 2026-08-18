@@ -38,41 +38,21 @@ Outside of work, I spend my time on **offensive security** and **hardware hackin
 
 ## Tech & Tools
 
-**Edge, CDN & Application Security**
+## 
 
-![Akamai](https://img.shields.io/badge/Akamai-0099CC?style=for-the-badge&logo=akamai&logoColor=white)
-![WAF](https://img.shields.io/badge/WAF-B02A2A?style=for-the-badge)
-![Bot Management](https://img.shields.io/badge/Bot%20Management-1F6F8B?style=for-the-badge)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-721412?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-4A4A55?style=for-the-badge)
-
-**Offensive Security**
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-**Hardware Hacking**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF8200?style=for-the-badge)
-![UART / JTAG / SPI](https://img.shields.io/badge/UART%20%2F%20JTAG%20%2F%20SPI-6E7B8B?style=for-the-badge)
-
-**Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="left">
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-akamai-icon-svg-download-png-285337.png?f=webp" alt="akamai" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN6QaoX9EXNewj0boLANDU_0Gsm91GEODKNjo7xKQTXYdjbH11ll4DupSV&s=10" alt="flipper zero" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/148154420?s=200&v=4" alt="high boy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZ6Z6DSbuC7tCwq_vuodE8eYA8vQxWKm5q3v9qNHXMQ&s" alt="burpsuite" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/512/nmap.png" alt="nmap" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/1200/metasploit.jpg" alt="metaspolit" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtT1B2_3tLHRmik4WnmUjyKBS0HI8i6xKej2xJgxKbA&s=10" alt="john the ripper" width="40" height="40"/>&nbsp;
+</p>
 
 ---
 
