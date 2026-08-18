@@ -192,20 +192,13 @@ Outside of work, I spend my time on **offensive security** and **hardware hackin
   </tr>
 </table>
 
----
+
 
 ## Where I'm Heading
 
 Building depth in **Application Security**  API security, WAF and edge defense, cloud security, offensive security and security automation. The goal is to keep bridging both sides: understanding how attacks are built in order to design defenses that hold up in production.
 
----
 
-## GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amancio-g08&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amancio-g08&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top languages" />
-</div>
 
 <br>
 
@@ -213,5 +206,5 @@ Building depth in **Application Security**  API security, WAF and edge defense, 
   <img src="https://github.com/amancio-g08/amancio-g08/blob/output/github-snake-dark.svg" alt="GitHub contribution snake" />
 </div>
 
----
+
 
