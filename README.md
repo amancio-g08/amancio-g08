@@ -90,28 +90,4 @@ Building depth in **Application Security** — API security, WAF and edge defens
 
 ---
 
-## GitHub
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amancio-g08&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amancio-g08&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top languages" />
-</div>
-
-<br>
-
-<div align="left">
-  <img src="https://github.com/amancio-g08/amancio-g08/blob/output/github-snake-dark.svg" alt="GitHub contribution snake" />
-</div>
-
----
-
-## Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabrielamanciopereiraurm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
