@@ -172,7 +172,7 @@ Outside of work, I spend my time on **offensive security** and **hardware hackin
 
 ## Contact
 
-- mail · `amanciog08@gmail.com`
+- email · `amanciog08@gmail.com`
 
 <p><code>amancio-g08@bateman:~$&nbsp;</code><img src="cursor.svg" alt="" height="20" align="absmiddle"></p>
 
