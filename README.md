@@ -3,14 +3,6 @@
 <p align="left">
   <strong>Application Security Analyst</strong> · Akamai Edge Security · Brazil 🇧🇷
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Application%20Security-B02A2A?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Platform-Akamai-0099CC?style=flat-square&logo=akamai&logoColor=white" alt="Akamai" />
-  <img src="https://img.shields.io/badge/Interest-Offensive%20Security-000000?style=flat-square" alt="Offensive Security" />
-  <img src="https://img.shields.io/badge/Interest-Hardware%20Hacking-FF8200?style=flat-square" alt="Hardware Hacking" />
-</p>
-
 ---
 
 ## About
