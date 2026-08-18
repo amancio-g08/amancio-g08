@@ -3,38 +3,21 @@
 <p align="left">
   <strong>Application Security Analyst</strong> 
 </p>
-
+```
+       /\          anarchyysm@nevermind
+      /  \         ─────────────────────────────────────
+     /\   \        Role        Application Security Analyst
+    /      \       Focus       Akamai · Offensive security
+   /   ,,   \      Languages   Python · Lua · Javascript
+  /   |  |  -\     Distro      Arch Linux
+ /_-''    ''-_\    Shell       zsh
+```
 
 ## About
 
-I work on a **Client Management team** operating Akamai environments for a large multi-client portfolio across healthcare, finance, insurance, education and logistics sectors where downtime and exposure carry real regulatory weight.
-
-Day to day, that means tuning **WAF and Bot Management** policies, validating legitimate traffic before moving rules from alert to block, hardening origins so they answer **exclusively** through the Akamai edge, and running assessments that turn raw traffic and configuration data into prioritized action plans for customers.
-
+I work on a **Client Management team** operating Akamai environments for a large multi-client portfolio across healthcare, finance, insurance, education and logistics sectors where downtime and exposure carry real regulatory weight. 
 Outside of work, I spend my time on **offensive security** and **hardware hacking**.
 
----
-
-## What I Work With
-
-**Security**
-- WAF policy tuning, security event analysis and false-positive treatment
-- Bot Management: bot category evolution and validated exceptions for legitimate automation
-- API security and traffic behavior analysis across applications and integrations
-- Environment assessments to surface configuration gaps and exposure
-
-**Edge & Infrastructure**
-- Property Manager analysis, hostname validation and DNS/CDN consistency checks
-- Site Shield deployment, firewall range management and origin bypass prevention
-- SureRoute configuration, test object validation and edge-to-origin route troubleshooting
-- TLS certificate lifecycle and CPS: expiration, chain, wildcard coverage, Domain Validation
-
-**Delivery**
-- Technical assessments, evidence packages and executive-facing reporting
-- IAM reviews across customer accounts (users, roles, permissions)
-- Security automation with Python
-
----
 
 ## Tech & Tools
 
@@ -192,19 +175,11 @@ Outside of work, I spend my time on **offensive security** and **hardware hackin
   </tr>
 </table>
 
+## Contact
 
+- mail · `gamancio069@gmail.com`
 
-## Where I'm Heading
-
-Building depth in **Application Security**  API security, WAF and edge defense, cloud security, offensive security and security automation. The goal is to keep bridging both sides: understanding how attacks are built in order to design defenses that hold up in production.
-
-
-
-<br>
-
-<div align="left">
-  <img src="https://github.com/amancio-g08/amancio-g08/blob/output/github-snake-dark.svg" alt="GitHub contribution snake" />
-</div>
+<p><code>amancio@bateman:~$&nbsp;</code><img src="cursor.svg" alt="" height="20" align="absmiddle"></p>
 
 
 
