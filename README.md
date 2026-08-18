@@ -1,7 +1,7 @@
 <h1 align="left">Gabriel Amancio</h1>
 
 <p align="left">
-  <strong>Application Security Analyst</strong> · Akamai Edge Security · Brazil 🇧🇷
+  <strong>Application Security Analyst</strong>
 </p>
 
 
