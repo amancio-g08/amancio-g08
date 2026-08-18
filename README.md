@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm Gabriel Amâncio </h1>
 
 <p align="left">
-  <strong>Application Security Analyst</strong> · 
+  <strong>Application Security Analyst</strong> 
 </p>
 
 
