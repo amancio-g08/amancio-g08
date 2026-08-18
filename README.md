@@ -3,15 +3,13 @@
 <p align="left">
   <strong>Application Security Analyst</strong> 
 </p>
-```
        /\          anarchyysm@nevermind
       /  \         ─────────────────────────────────────
-     /\   \        Role        Application Security Analyst
-    /      \       Focus       Akamai · Offensive security
-   /   ,,   \      Languages   Python · Lua · Javascript
+     /\   \        Role        Senior Firmware Engineer
+    /      \       Focus       Low-level systems · Offensive security
+   /   ,,   \      Languages   C · C++ · Assembly · Rust · Python
   /   |  |  -\     Distro      Arch Linux
  /_-''    ''-_\    Shell       zsh
-```
 
 ## About
 
