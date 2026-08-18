@@ -3,7 +3,7 @@
 <p align="left">
   <strong>Application Security Analyst</strong> · Akamai Edge Security · Brazil 🇧🇷
 </p>
----
+
 
 ## About
 
