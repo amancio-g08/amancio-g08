@@ -87,10 +87,6 @@ Outside of work, I spend my time on **offensive security** and **hardware hackin
         <sub><b>Wireshark</b></sub>
       </a>
     </td>
-    <td align="center" width="100">
-      <a href="https://www.kali.org" target="_blank" rel="noreferrer">
-        <img src="https://www.google.com/s2/favicons?domain=kali.org&sz=128" width="42" height="42" alt="Kali Linux" /><br />
-        <sub><b>Kali Linux</b></sub>
       </a>
     </td>
   </tr>
